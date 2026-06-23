@@ -2,6 +2,11 @@
 
 **Gridlock Hackathon 2.0 — Theme: Event-Driven Congestion (Planned & Unplanned)**
 
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Data Source](https://img.shields.io/badge/Data-ASTraM%20BTP%20Export-orange)](#data)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Forecasts the traffic impact of an upcoming or just-reported event in Bengaluru and
 recommends manpower, barricading, and diversion plans — learned from 8,000+ real
 ASTraM/Bengaluru Traffic Police incident records, not assumptions.
